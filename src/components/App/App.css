@@ -1,0 +1,10 @@
+body {
+    font-size: 18px;
+    color: #111111;
+}
+.wrapper{
+    max-width: 600px;
+    margin: 50px auto;
+    position: relative;
+    padding: 15px;
+}
